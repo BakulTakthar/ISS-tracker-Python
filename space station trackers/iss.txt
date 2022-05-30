@@ -1,0 +1,12 @@
+there are currently7astronauts on board on the ISS: 
+
+Oleg Artemyev -- on board
+Denis Matveev -- on board
+Sergey Korsakov -- on board
+Kjell Lindgren -- on board
+Bob Hines -- on board
+Samantha Cristoforetti -- on board
+Jessica Watkins -- on board
+
+
+your current longitude and latitude is[28.6266, 77.2794]
